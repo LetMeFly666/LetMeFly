@@ -5,4 +5,4 @@ int main()
 	system("ren version1.exe BiliBiliDownloader.exe");
 	system("start BiliBiliDownloader.exe");
 	return 0;
-} 
+}
