@@ -1,0 +1,1 @@
+这是一个链接吗:[链接尝试](https://api.fghrsh.net/hitokoto/rand/?encode=jsc&uid=3335)
